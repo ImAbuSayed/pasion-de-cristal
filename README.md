@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-cristal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasión de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-cristal/) |
+| **Get License** | [Official Music Licensing for Pasión de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-cristal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f276415608559faad8c7255924f7c25b762896c584a7832a026f1fc0cb1ade83` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
